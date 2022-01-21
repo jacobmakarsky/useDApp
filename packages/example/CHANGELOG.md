@@ -1,5 +1,12 @@
 # @usedapp/example
 
+## 0.3.2
+
+### Patch Changes
+
+- be413b4: Fix peer dependency conflict:
+  - update @pmmmwh/react-refresh-webpack-plugin
+
 ## 0.3.1
 
 ### Patch Changes
